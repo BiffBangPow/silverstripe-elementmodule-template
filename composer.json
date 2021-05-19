@@ -1,0 +1,27 @@
+{
+  "name": "biffbangpow/silverstripe-module-template",
+  "description": "A basic skeleton for a Silverstripe 4 module",
+  "type": "silverstripe-vendormodule",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tim Burt",
+      "email": "tim@biffbangpow.com"
+    }
+  ],
+  "require": {
+    "silverstripe/vendor-plugin": "^1.0",
+    "silverstripe/cms": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "BiffBangPow\\SOME-NAMESPACE\\": "src/"
+    }
+  },
+  "extra": {
+    "expose": [
+      "client/dist"
+    ]
+  }
+}
