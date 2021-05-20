@@ -8,6 +8,10 @@
     {
       "name": "Tim Burt",
       "email": "tim@biffbangpow.com"
+    },
+    {
+      "name": "James Heathcote",
+      "email": "james.h@biffbangpow.com"
     }
   ],
   "require": {
