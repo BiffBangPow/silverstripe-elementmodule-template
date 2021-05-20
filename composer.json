@@ -13,7 +13,7 @@
   "require": {
     "silverstripe/vendor-plugin": "^1.0",
     "silverstripe/cms": "^4",
-    "dnadesign/silverstripe-elemental": "^4@stable"
+    "dnadesign/silverstripe-elemental": "^4@stable || ^3@stable"
   },
   "autoload": {
     "psr-4": {
