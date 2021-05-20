@@ -1,6 +1,6 @@
 <?php
 
-namespace BiffBangPow\Element\MyElement;
+namespace BiffBangPow\Element;
 
 use DNADesign\Elemental\Models\BaseElement;
 
