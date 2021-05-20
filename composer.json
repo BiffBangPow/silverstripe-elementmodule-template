@@ -1,5 +1,5 @@
 {
-  "name": "biffbangpow/silverstripe-module-template",
+  "name": "biffbangpow/silverstripe-elementmodule-template",
   "description": "A basic skeleton for a Silverstripe 4 elemental module",
   "type": "silverstripe-vendormodule",
   "minimum-stability": "dev",
