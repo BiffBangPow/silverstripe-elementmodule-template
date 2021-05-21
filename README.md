@@ -4,4 +4,4 @@ This does not represent a working module, just the bare-bones.   Once you have c
 
 Code should be added in the `src`directory, following PSR autoloading guidelines for namespaces, directory structure, etc.
 
-No front-end assets have been included, It is anticipated that these would be generated on a per-project basis, and would be added to the element within the overridden template used in the theme.
+No front-end assets have been included, It is anticipated that these would be generated on a per-project basis, and would be added to the element within the overridden template used in the theme.  The requirements API should be used for adding element-specific assets to assist in front-end loading performance
